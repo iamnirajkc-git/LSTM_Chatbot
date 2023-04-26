@@ -1,0 +1,118 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "input": [
+        "hello",
+        "hi there"
+      ],
+      "responses": [
+        "Hi. Welcome to the world's largest pirate organization - The Strawhats!",
+        "Hey yo, do you need help?",
+        "Welcome aboard, how may I help you?",
+        "Ahoy!",
+        "Hi random person, what do you want?",
+        "Hello my friend, how can I help you?",
+        "Ha, glad you showed up. How are you?"
+      ]
+    },
+    {
+      "tag": "datascience",
+      "input": [
+        "What is data science?",
+        "Can you define data science?",
+        "Explain data science to me",
+        "What are the applications of data science?",
+        "What are the benefits of learning data science?",
+        "How do I start learning data science?",
+        "What are the important skills for a data scientist?"
+      ],
+      "responses": [
+        "Data science is the field of extracting insights and knowledge from data using various techniques and tools.",
+        "Data science is the practice of deriving insights and knowledge from data through analysis and interpretation.",
+        "In simple terms, data science is the process of analyzing and interpreting large amounts of data to gain insights.",
+        "Data science has many applications, including but not limited to business analytics, healthcare, finance, marketing, and social media analysis.",
+        "Learning data science can open up many career opportunities and allow you to work with cutting-edge technologies and techniques.",
+        "To start learning data science, you can begin by learning programming languages such as Python or R, and then gradually move on to more advanced topics such as machine learning and data visualization.",
+        "Some important skills for a data scientist include programming, statistics, machine learning, data visualization, and domain expertise in a specific field."
+      ]
+    },
+    {
+      "tag": "datascience_learning",
+      "input": [
+        "How can I learn data science?",
+        "What are the best resources for learning data science?",
+        "Are there any good online courses for learning data science?"
+      ],
+      "responses": [
+        "There are many resources available for learning data science, including online courses, books, and tutorials.",
+        "Some popular online courses for learning data science include Coursera, Udemy, and edX.",
+        "To learn data science, it's important to have a solid foundation in programming, statistics, and machine learning. Practice is also key, so be sure to work on projects and apply what you've learned."
+      ]
+    },
+
+    {
+         "tag":"datascience_salary",
+         "input":[
+            "What is the average salary of a data scientist?",
+            "What is the salary range for a data scientist?",
+            "How much do data scientists make?",
+            "What are the highest paying jobs in data science?"
+         ],
+         "responses":[
+            "The average salary of a data scientist in the US is around $120,000 per year.",
+            "The salary range for a data scientist varies based on factors such as location, experience, and industry. On average, data scientists earn between $90,000 to $150,000 per year.",
+            "Data scientists make a good amount of money, with salaries ranging from $90,000 to $150,000 per year.",
+            "Some of the highest paying jobs in data science include machine learning engineer, data architect, and data engineering manager."
+         ]
+    },
+    {
+         "tag":"datascience_history",
+         "input":[
+            "Who coined the term 'data science'?",
+            "What is the history of data science?",
+            "When did data science become popular?",
+            "How has data science evolved over time?"
+         ],
+         "responses":[
+            "The term 'data science' was first coined by William S. Cleveland in 2001.",
+            "Data science has its roots in statistics and computer science, and has been around for several decades. However, it gained popularity in the early 2000s with the explosion of big data.",
+            "Data science became popular in the early 2000s with the rise of big data and the need to extract insights from massive datasets.",
+            "Data science has evolved over time with the development of new technologies and techniques, such as machine learning, deep learning, and artificial intelligence."
+         ]
+    },
+    {
+         "tag":"goodbye",
+         "input":[
+            "Goodbye",
+            "See you later",
+            "Bye bye",
+            "Adios",
+            "Talk to you later"
+         ],
+         "responses":[
+            "Goodbye! It was nice talking to you.",
+            "See you later!",
+            "Bye bye!",
+            "Adios!",
+            "Talk to you later!"
+         ]
+    },
+
+
+
+    {
+      "tag": "datascience_career",
+      "input": [
+        "What kind of jobs can I get with a data science degree?",
+        "What are the career opportunities in data science?",
+        "Is data science a good career choice?"
+      ],
+      "responses": [
+        "There are many career opportunities available in data science, including data analyst, data scientist, machine learning engineer, and business intelligence analyst.",
+        "Data science is a rapidly growing field, and there is a high demand for skilled professionals. It can be a great career choice for those who enjoy working with data and solving complex problems.",
+        "With a degree in data science, you can work in a variety of industries, including healthcare, finance, e-commerce, and more."
+      ]
+    }
+  ]
+}
