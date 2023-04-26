@@ -7,3 +7,6 @@ The input data is tokenized using the Keras Tokenizer, and the output data is en
 The LSTM model is built using Keras, with an embedding layer, an LSTM layer, and a dense output layer with a softmax activation. 
 The model is trained for 200 epochs, and the resulting chatbot can respond to user input by predicting the appropriate response based on the input's tag. 
 The chatbot's performance can be further improved by fine-tuning the model or increasing the amount of training data.
+
+
+**Things to do:** To make chatbot more effective, train the chatbot using more data.
